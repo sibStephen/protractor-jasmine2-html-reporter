@@ -27,6 +27,13 @@ exports.config = {
 }</code></pre>
 
 ## Options
+### FrameWork
+Framework to use.
+
+<pre><code>framework: 'jasmine2',</code></pre>
+
+Default framework: <code>jasmine</code>
+
 ### Destination folder
 
 Output directory for created files. All screenshots and reports will be stored here.
